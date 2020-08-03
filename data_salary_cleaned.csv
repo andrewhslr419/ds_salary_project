@@ -1,34 +1,5 @@
-,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
-0,Claims Data Scientist,-1,"About ConcertAI
-
-ConcertAI is the leading provider of precision oncology solutions for biopharma and healthcare, leveraging the largest collection of research-grade Real-world Data and the only broadly deployed oncology-specific AI solutions. Our mission is to improve translational sciences; accelerate therapeutic clinical development; and provide new capabilities for post-approval studies to accelerate needed new medical innovations to patients and to improve patient outcomes.
-ConcertAI has emerged as one of the highest growth technology companies in Real-world Data and AI, backed by industry leading private equity companies: SymphonyAI, Declaration Partners, Maverick Ventures, and Alliance|Bernstein.
-
-Role Summary
-As a Claims Data Scientist at ConcertAI, you will be responsible for data exploration, and analysis on patient data for various stakeholders in the oncology and healthcare domain, including claims and claims-clinical linked data assets. You will report to the Vice President of Data Products. You should have a good mix of programming/CS, visualization, stats/math, and ML skills (with a particular strength in at least 2 of those areas), and ideally, you have been applying those skills in healthcare. You should have previous experience with healthcare claims. You will design methods and models around client driven needs and you will collaborate with various subject matter experts to inform those methods. You will assist the client delivery team with insights, dashboards, and ad-hoc analytics. You will also work with the engineering team to build prototypes and models for new product development.
-Responsibilities
-Understand external claims data assets and oversee the ingestion, processing, de-identification, and provisioning for data assets and research projects.
-Understand client / product needs and translate them into tactical R&D initiatives with defined goals and timelines.
-Reason about healthcare specific problems to analyze visualize, interpret, and contextualize results.
-Run a variety of analytics from data QA to complex models.
-Become the internal subject matter expert on all things claims.
-Implement models using high level software packages (SKlearn, R, TensorFlow, Spark).
-Collaborate on software projects with engineers, providing analytical guidance and contributing to codebase.
-Requirements
-BSc or higher in a STEM field, with formal training in CS, stats, and math.
-Strong programming abilities in at least one high level language (python, stata, R).
-Knowledge of statistical methods- regression, ANOVA, EDA, PCA, etc.
-Basic visualization skills- matplotlib/seaborn/plotly/etc, tableau.
-Experience with big data – Cloud data warehouses, cluster computing, Spark, MapReduce/Hadoop.
-Experience with healthcare claims data
-Intimate familiarity with the python data science stack (pandas, sklearn, numpy/scipy).
-Firm understanding of claims data processing and adjudication, including rejections, re-submissions, and identifying final claims.
-Ideal candidate would have a competency around linking EMR and claims data via identity management.
-Learn More About ConcertAI
-
-ConcertAI is transforming how healthcare is delivered and dedicated to improving patient outcomes in oncology by offering innovative solutions on how data and intelligence is used to solve healthcare problems. We are creating something special in our culture, by building a collaborative, engaged, patient focused, team approach to our mission. Our high-performance teams are looking to add great talent to the mix and we are hiring for the right mix of new skills and diverse mindset. Learn more about ConcertAI at www.concertai.com or on LinkedIn .",3.4,"Concerto HealthAI
-3.4",Remote,"Boston, MA",501 to 1000 employees,2018,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1
-1,Senior Data Scientist,"$86K-$137K
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_provided,min_salary,max_salary,avg_salary,company_txt,job_state,same_state,age,python_yn,R_studio,spark,aws,excel
+Senior Data Scientist,"$86K-$137K
 (Glassdoor est.)","GEICO’s Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
 
 As a Senior Data Scientist, you will serve as a technical and thought leader on this diverse and highly skilled team. You will design and develop inventive solutions to drive innovation and delivery of organizational value. You’ll synthesize large datasets and solve complex problems through the use of advanced machine learning and statistical modeling. You’ll work in a highly collaborative, team environment, guiding and mentoring junior data scientists and collaborating with multiple stakeholders. You will assist management in the communication of insights and the implementation of impactful data science solutions across the organization.
@@ -70,8 +41,9 @@ Click ""Apply for Job"" to complete your application. You will need an active em
 #LI-JW1
 
 #DI-JW",3.3,"GEICO
-3.3","Chevy Chase, MD","Washington, DC",10000+ employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),-1
-2,Data Analyst,"$34K-$62K
+3.3","Chevy Chase, MD","Washington, DC",10000+ employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,86,137,111.5,"GEICO
+", MD,0,84,1,0,1,1,1
+Data Analyst,"$34K-$62K
 (Glassdoor est.)","Breckenridge Grand Vacations (BGV) is seeking qualified analysts who will help grow our highly cross-functional analytics department. The Data Analyst is responsible for quantitative& qualitative analysis, reporting, and data mining across all of BGV’s finance, marketing, operations, and sales divisions. At its highest level, this position identifies the business’ analytical needs, collaborates with the analytics team& business intelligence, develops thoughtful analyses, and effectively communicates findings and recommendations to key decision makers including executive leadership. BGV Analysts are highly detail oriented, proactive self-starters, team players, capable of multi-tasking, and can analyze large amounts of data with creativity and innovation in mind. Please visit www.BGVjobs.com to apply!
 
 Data Analyst Essential Duties and Responsibilities(including but not limited to):
@@ -114,8 +86,9 @@ About Breckenridge Grand Vacations:
 BGV was formed in 1984, serving as the developer, owner, and operator of four Breckenridge Resorts: Gold Point Resort, Grand Timber Lodge, the Grand Lodge on Peak 7 and our newest resort, the Grand Colorado on Peak 8. Winner of the ACE Philanthropic Award in 2016 from the American Resort Development Association (ARDA), Denver Post’s 2018 Top Large Workplace: 1st Place, and winner of the ACE Project of Excellence (Grand Colorado on Peak 8) in 2020 from the American Resort Development Association (ARDA) as the best resort in the world for the year. Breckenridge Grand Vacations is widely recognized as one of the most successful independent developers in the industry.
 
 Here at Breckenridge Grand Vacations, we pride ourselves on always creating Grand vacations for families and friends alike. Our purpose statement sets the stage for impacting the lives not only of our owners and guests, but our employees and our community:The Soul of BGV is creating smiles!",4.5,"Breckenridge Grand Vacations
-4.5","Breckenridge, CO","Breckenridge, CO",501 to 1000 employees,1984,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,$10 to $25 million (USD),-1
-3,Data & Analytics Consultant,"$77K-$118K
+4.5","Breckenridge, CO","Breckenridge, CO",501 to 1000 employees,1984,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,$10 to $25 million (USD),-1,0,0,34,62,48.0,"Breckenridge Grand Vacations
+", CO,1,36,1,0,0,0,1
+Data & Analytics Consultant,"$77K-$118K
 (Glassdoor est.)","WHO WE LOOK FOR
 
 An SEI Consultant is a master communicator and active listener who understands how to navigate an audience. Self-aware, almost to a fault, SEI consultants keenly understand how to adjust their approach based on the situation. Following a logical, fact-based approach, our consultants possess the superior ability to see correlations others may not, ask the right questions and drive solutions.
@@ -159,45 +132,9 @@ Bachelor’s degree (Mathematics, Computer Science, or related field preferred)
 8+ years professional experience
 Consulting experience
 Experience across our service offerings",4.6,"SEI
-4.6","Atlanta, GA","Cincinnati, OH",201 to 500 employees,1992,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1
-4,Market Data Analyst,-1,"A bit about us:
-
-We’re on a mission to change healthcare — how it’s paid for, delivered, experienced. We want to put people center stage, not process or profit. We are guided by a deep belief that every person on Medicare should be treated like we would treat a member of our own family: with loving care and a profound commitment to their health and well-being.
-
-That’s why we’re gathering a whole bunch of smart, big-hearted people to create a new kind of healthcare company — one that combines compassion, health insurance, clinical care, and technology seamlessly.
-
-We want to throw the long ball with people we love for a cause we believe in. Life is short. Join us.
-
-
-A bit about this role:
-
-This newly created role will be responsible for data analysis to support the market provider performance teams across all markets. The candidate will need to have experience with Risk Medicare Advantage (MA) financials, understand contract parameters, and be able to dive deep into claims research. This position will work closely with the market team (sales & network) and tech/data team to drive insights. This role will report to our Lead Market President and will be an integral part of our go to market team.
-Responsibilities will include:
-Produce monthly risk provider (one for each) reporting package for network team to review and deliver
-Participate in Joint Operating Committees and other provider meetings
-Act as point person to take lead on reconciling provider data mismatches (provider claims we are wrong)
-Deep dive into suspect (incorrectly paid) claims affecting risk providers such as Incentive Care/Gessler Baycare high cost claims
-Deep dive into troubled risk providers’ financials to identify areas of improvement
-Attributes to success:
-You are a Doer. You love being hands-on; getting into the weeds, doing the research, and utilizing best practices to improve processes
-You are collaborative, driven, resourceful, and you enjoy working at the intersection of Finance and Technology
-You possess excellent communication skills, including ability to clearly articulate needs, objectives, priorities, and strategy
-You are skilled at interpreting and distilling information from one source, and translating that information into sensical terms for another source
-You have a passion for improving U.S. healthcare, and a desire to continue to build your knowledge base within the vertical
-Desired skills and experience:
-7+ years’ experience, with 5+ years in a payor-based analytical role
-Ability to navigate ambiguity, and work within a fast-paced startup environment
-You have experience in risk, provider financials, and insurance
-You have deep knowledge of Medicare Advantage and Medicare HMO
-You have a track record of success collaborating with Tech partners
-Experience with SQL (basic skills)
-If you love running towards complex challenges and transforming them into solutions, if you want to make a potentially huge impact on many lives, and if you are looking for a disruptive startup with an inspiring and talented team, Devoted Health may be the place for you!
-
-Devoted is an equal opportunity employer. We are committed to a safe and supportive work environment in which all employees have the opportunity to participate and contribute to the success of the business. We value diversity and collaboration. Individuals are respected for their skills, experience, and unique perspectives. This commitment is embodied in Devoted’s Code of Conduct, our company values and the way we do business.
-
-As an Equal Opportunity Employer, the Company does not discriminate on the basis of race, color, religion, sex, pregnancy status, marital status, national origin, disability, age, sexual orientation, veteran status, genetic information, gender identity, gender expression, or any other factor prohibited by law. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.",4.3,"Devoted Health
-4.3","Houston, TX","Waltham, MA",201 to 500 employees,2017,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1
-5,Data Analyst,"$46K-$65K
+4.6","Atlanta, GA","Cincinnati, OH",201 to 500 employees,1992,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,77,118,97.5,"SEI
+", GA,0,28,1,0,0,0,1
+Data Analyst,"$46K-$65K
 (Glassdoor est.)","For more than a decade, Asembia has been working with specialty pharmacies, manufacturers, prescribers, payers and other industry stakeholders to develop solutions for the high-touch specialty pharmaceutical service model.Through collaborative programs, contracting initiatives, patient support hub services and innovative technology platforms, Asembia is committed to positively impacting the patient journey.
 
 Asembia focuses on the specialty pharmacy segment and offers comprehensive hub services, pharmacy network management, group purchasing (GPO) services, innovative technology platforms and more.As a leading industry voice and advocate, Asembia is committed to bringing strategic channel management solutions, leading-edge products and high-touch services to the specialty pharmacy industry that help our customers optimize patient care and outcomes.
@@ -245,23 +182,9 @@ Qualifications:
 ·Excellent organizational and collaboration skills.
 
 Asembia is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, gender identity and expression, citizenship, genetic disposition, disability or veteran's status or any other classification protected by State/Federal laws.",3.5,"Asembia
-3.5","Florham Park, NJ","Florham Park, NJ",501 to 1000 employees,2004,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),-1
-6,Junior Business Intelligence Analyst,-1,"Junior Business Intelligence Analyst
-MWE is seeking an enthusiastic employee to facilitate our IT team in creating thoughtful and effective reports utilizing existing data sources. Successful candidates will have a willingness and enthusiasm for understanding data sources and how it can be applied to facilitate business decisions.
-Accountabilities:
-- Develop dynamic, scalable, and effective reports and dashboards including related KPIs/metrics for visual analysis
-- Understand, prepare, and analyze data to make the data valuable and useful for operational and/or decision-making purposes
-- Consider data context and availability to determine how best to produce reports efficiently and accurately
-- Critically evaluate information gathered from multiple sources and present in simple and accurate ways
-- Uses NetSuite, spreadsheets, and relevant software to provide ongoing analysis of operational activities
-We think you will succeed if:
-- Bachelor’s degree, or equivalent experience
-- 0-3 years of experience in Business Analytics, Reporting, or related fields
-- Passion for working with and manipulating data
-- Ability to quickly understand our business and how to collect data to make informed decisions
-- Excited to learn and understand our existing business systems
-- Experience with writing SQL queries and extracting data from NetSuite",-1,"Midwest Equipment Sales, LLC","Columbus, OH",-1,-1,-1,-1,-1,-1,-1,-1
-7,"Data Scientist - Statistics, Early Career","$68K-$111K
+3.5","Florham Park, NJ","Florham Park, NJ",501 to 1000 employees,2004,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),-1,0,0,46,65,55.5,"Asembia
+", NJ,1,16,0,0,0,1,1
+"Data Scientist - Statistics, Early Career","$68K-$111K
 (Glassdoor est.)","*Organization and Job ID**
 Job ID: 310918
 
@@ -304,51 +227,9 @@ _Group:_ _Appld Stats & Comp Modeling_
 _Opening Date:_ _2020-06-03_
 
 _Closing Date:_ _2020-09-01_",3.8,"Pacific Northwest National Laboratory
-3.8","Seattle, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory"
-8,"Data Scientist (Palo Alto, CA or Remote US)",-1,"The Opportunity
-
-Eversight is the recognized leader in AI-powered price and promotions. Eversight's proprietary cloud-based SaaS solution brings AI and continuous experimentation to consumer brands and retailers. Our software acts as a coach, enabling market leaders to transform pricing and promotion strategy for the $3.4 trillion spent in consumer goods retail using intelligent, real-time data and insights.
-
-Reporting directly to the Head of Data Science, you will be at the center of what determines Eversight's success as a company. You will analyze the data and develop production code using the newest Data Science and Machine Learning techniques to determine the optimal prices and promotions for major product manufacturers and retailers that sell these products.
-
-Responsibilities
-Research, implement and modify modern Data Science techniques. More specifically:
-Build Statistical and Machine Learning models that describe the impact of prices and promotions on shopper behavior, including behavioral pricing effects. You'll need to find middle ground between using flexible modern AI methods and proven classical methods.
-Develop Optimization and Experiment Design systems, which determine the best prices to set for each product in each store each week. Finding a good balance on the exploration-exploitation tradeoff will be important.
-Design and run pricing experiments across hundreds of stores and tens of thousands of products
-Create model validation methods to make sure that our models are accurate and to quantify the impact of our solutions on the clients' bottom line
-Work with Product Management to generate ideas and quickly turn them into efficient, well-tested, functioning code (we mostly use Python)
-Partner with the Engineering team to create highly scalable solutions
-Serve as Data Science expert both within Eversight and for our clients
-Lead custom analyses and connect them to actionable Business and Product insights
-Help prioritize new feature development by assessing potential impact
-Be a go-to resource for science-related questions about the product
-Behavioral Profile
-Analytical, framework thinker
-Comfortable in a fast-paced environment
-Highly collaborative
-Strong at translating Data Science concepts to non-technical audiences
-Business focused; measures work in its contributions to business outcomes and prioritizes effort against deliverables accordingly
-Skills and Experience
-2+ years of relevant experience in Data Science and/or Machine Learning with direct impact on business value
-B.S., M.S., or PhD in Statistics, Mathematics, Operations Research, Machine Learning, Engineering, Economics, Computer Science or relevant quantitative field
-Ability to write efficient code in Python
-Extremely strong in math and statistics: Linear Algebra, Hypothesis Testing, Bayesian Methods, Regressions, Calculus, Maximum Likelihood Estimation
-Experience in Machine Learning methods: Neural Networks (Deep Learning, Embeddings, Sequence Modeling, CNN), Tree-based methods (GBDT, Random Forest), Regressions (Linear, GLM), Regularization Methods (L1/L2 penalties, Feature Selection, Dimensionality Reduction)
-Experience in A/B testing and Design of Experiments preferred
-Agile experience preferred
-Demand Modeling, Pricing, and Causal Inference experience preferred but optional
-
-
-Location
-
-Palo Alto, CA
-
-About the Company
-
-Eversight is the recognized leader in AI-powered pricing and promotions. Global brands and retailers rely on the Eversight platform to optimize pricing in response to market conditions and to deliver higher ROI on promotional spend. Eversight's Pricing Suite and Offer Innovation Suite solutions are driving strong margin and sales volume improvements for leading companies such as Coca-Cola, General Mills, Raley's, and Rite Aid. Founded in 2013, Eversight is headquartered in Palo Alto, California, with offices in Chicago and New York.",4.2,"Eversight
-4.2",Remote,"Palo Alto, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),-1
-9,Data Analyst/Programmer,"$49K-$89K
+3.8","Seattle, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,68,111,89.5,"Pacific Northwest National Laboratory
+", WA,0,55,0,0,0,0,1
+Data Analyst/Programmer,"$49K-$89K
 (Glassdoor est.)","Data Analyst/Programmer
 
 
@@ -380,8 +261,9 @@ Knowledge of finance, capital markets
 Detail oriented
 Strong communication skills, both written and verbal
 Ability to work in a fast-paced environment, under pressure and deliver on time",3.2,"Apollo Global Management
-3.2","Woodland Hills, UT","New York, NY",1001 to 5000 employees,1990,Company - Public,Venture Capital & Private Equity,Finance,$1 to $2 billion (USD),-1
-10,Scientist,"$29K-$65K
+3.2","Woodland Hills, UT","New York, NY",1001 to 5000 employees,1990,Company - Public,Venture Capital & Private Equity,Finance,$1 to $2 billion (USD),-1,0,0,49,89,69.0,"Apollo Global Management
+", UT,0,30,1,0,0,0,1
+Scientist,"$29K-$65K
 (Glassdoor est.)","Join us as we Rise to the Challenge
 At KCI, we’re building an enduring company that provides unparalleled value to our employee-owners. We make our mark designing and delivering our world-class solutions, so we invest deeply in developing our team. We reward integrity and commitment, and when we do well, you do well. Our people have freedom to innovate, unlimited growth, a voice that matters, a lifestyle that works, and skin in the game. Because life’s more fun when you own it.
 THE COMPANY
@@ -417,52 +299,9 @@ Prepare mitigation strategy and plan as required
 Process field data for inclusion in reports and deliverables
 Review and interpret lab results
 KCI Technologies, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",3.6,"KCI Technologies
-3.6","Sparks, MD","Glencoe, MD",1001 to 5000 employees,1988,Company - Private,Architectural & Engineering Services,Business Services,$100 to $500 million (USD),-1
-11,Junior Data Scientist,-1,"Company
-
-Fundation is a high growth, private equity backed technology enabled online commercial lender dedicated to enhancing the borrowing process for small business owners across the United States. We are changing the landscape of lending to small and medium sized businesses nationwide through a streamlined, data-driven, digital lending process.
-
-We deliver our credit products through a network of partners, offering the equivalent of a bank loan but through a technology-enabled process that can deliver capital in as little as 2 business days. Our standard product is a fixed rate, 1-4 year fully amortizing term installment loan (similar to a car loan or mortgage) with no prepayment penalties. Because we use our own capital (a balance sheet lender), we employ risk-based pricing to lend to businesses with varying credit profiles and for various purposes – working capital, inventory, capital improvements, equipment purchases, expansion of facilities, acquisitions and ownership related events. We do not sell our loans and we control the servicing throughout the life of the loan.
-
-Our partners include banks and other financial institutions, business brokers, business advisors, vendors of supplies, equipment, and services; online service providers, software providers and professional service firms. In each partnership, we customize our product offering and our delivery model to meet the needs of each unique partner and its customers. Our partnerships range from customized vendor financing programs, discrete transaction/deal assistance, fully integrated lending platforms, and customer cross-sell through coordinated marketing programs.
-
-Key Responsibilities:
-
-As a Junior Data Scientist at Fundation you will be responsible to use analytical skills to solve open-ended, complex, business problems. The ideal candidate will be a self-driven, high performer in a fast-paced start-up environment who wants to take a leadership role in the development and oversight of our data aggregation and automated decisioning platform. The employee will work on critical projects related to process automation and profitability analysis. This position will gain a comprehensive understanding of data manipulation, report generation, and all aspects of the business.
-
-Specific responsibilities include, but are not limited to
-Analyze business data to generate relevant, actionable, insights and make strategic and tactical recommendations
-Take an active role in our technology and modeling initiatives that interplay with our credit strategy, business analytics, and customer experience
-Design, develop, test, and implement financial models to support our credit risk management
-Automate/improve complicated or repetitive tasks, manage the process improvement
-Design reporting dashboards
-Work closely with colleagues and senior leaders in various departments to provide insights that drive business results
-Consistently evaluate new data sources Fundation might develop independently or collect from third parties
-Requirements
-
-Minimum Qualification:
-BA/BS degree or equivalent in analytical fields such as Math, Data Science, Business, Engineering, etc.
-At least 1 year experience in quantitative analysis
-Ability to extract, process, and interpret large data sets
-Experience using SQL, Python, R, Excel, etc.
-Strong interpersonal skills to translate the complexity of your work and insights into tangible business goals
-Proven track record of critical thinking, decision making, and problem solving based on analytics
-Work well in a team environment and employs a collaborative approach to problem solving
-Excellent organization and time management skills
-Ability to learn independently
-Preferred Qualifications
-Master’s Degree in “STEM” field (Science, Technology, Engineering, or Mathematics) or MBA
-2+ years of experience in quantitative analysis
-1+ years of experience in project management
-1+ years of experience in financial service firms or in consulting
-Exact job title will depend on skills and experience
-Benefits
-Salary commensurate with experience and capabilities
-Comprehensive benefits package including generous PTO, health, dental, vision, 401K with company match
-Bonus eligible
-Fundation provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Fundation complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.",4.5,"Fundation Group LLC
-4.5","Reston, VA","Reston, VA",51 to 200 employees,2011,Company - Private,Lending,Finance,$50 to $100 million (USD),-1
-12,"Data Scientist, Health Economics & Advanced Analytics","$81K-$134K
+3.6","Sparks, MD","Glencoe, MD",1001 to 5000 employees,1988,Company - Private,Architectural & Engineering Services,Business Services,$100 to $500 million (USD),-1,0,0,29,65,47.0,"KCI Technologies
+", MD,0,32,0,0,0,0,0
+"Data Scientist, Health Economics & Advanced Analytics","$81K-$134K
 (Glassdoor est.)","Overview
 
 
@@ -500,35 +339,9 @@ Ability to independently manage multiple work streams with limited supervision
 Demonstrated problem solving, analytical reasoning, and decision-making skills and strong commitment to meeting goals and deadlines
 Excellent teamwork skills and ability to work in a fast-paced, multi-disciplinary environment
 Self-motivated with a positive, flexible attitude",3.2,"Avalere Health
-3.2","Washington, DC","Washington, DC",201 to 500 employees,2000,Company - Public,Consulting,Business Services,Unknown / Non-Applicable,-1
-13,Senior Data Scientist,-1,"NanoMosaic LLC, located in Woburn, Massachusetts, is focused on developing an innovative photonics technology for biomedical diagnostics and drug development. Our cutting-edge technology will enable new frontiers of medical research for ultrahigh-sensitivity detection of single molecules in low volume liquid biopsy samples.
-We are looking for a candidate with a strong desire to bring a disruptive technology to market; playing a key role in a multidisciplinary team. This position will primarily focus on implementation of our data processing, informatics, and reporting pipeline.
-Successful candidates must have solid knowledge and extensive experience with scripting in Python or similar language with special emphasis in machine vision applications. Emphasis is also placed on image processing techniques via machine learning methods as well as local and hosted system architecture development. Experience providing consumer-facing data visualizations is preferred. Additionally, candidates should possess a strong acumen for on-the-fly problem solving, communication, and system level thinking.
-
-Responsibilities:
-Develop, validate, implement, and support image analysis tools for our evolving data pipeline
-Incorporate data pipeline revisions into our existing platform
-Develop and integrate data reporting mechanism
-General Qualifications:
-Creative, hardworking, and organized. Must also show a track record of innovative problem solving in technical environments.
-BS/BA degree in a Data Science or related field (e.g. Computer Science, Statistics, Mathematics, Bioinformatics, etc.)
-5+ years of directly related experience
-Strong experience with image processing and image analysis
-Strong background in Python
-Strong problem-solving skills
-Ability to prioritize tasks and remain agile in a small working group
-Excellent communication skills are essential
-Preferred Qualifications:
-Master’s degree in a Data Science or related field (e.g. Computer Science, Statistics, Mathematics, Bioinformatics, etc.) plus 5 years of experience.
-Previous experience in application of statistical methods and machine learning techniques
-Experience with wet-lab techniques (especially immunological)
-Application experience with photonics, machine vision, and microscopy
-Experience with laboratory automation including liquid handling, plate readers, plate washers, and incubators
-Experience with other software platforms such as LabView, Matlab
-Familiarity with regulatory framework and guidance for RUO and Dx software development
-
-NanoMosaic LLC. is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.",-1,NanoMosaic,"Woburn, MA","Woburn, MA",Unknown,-1,Unknown,-1,-1,Unknown / Non-Applicable,-1
-14,Lead Data Scientist,"$80K-$94K
+3.2","Washington, DC","Washington, DC",201 to 500 employees,2000,Company - Public,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,81,134,107.5,"Avalere Health
+", DC,1,20,1,0,0,0,1
+Lead Data Scientist,"$80K-$94K
 (Glassdoor est.)","Position: Lead Data Scientist
 
 Location: Cincinnati, OH
@@ -586,8 +399,9 @@ This is an excellent opportunity and includes a competitive pay and benefits pac
 PatientPoint® is a patient engagement solutions company passionately committed to making every doctor-patient engagement better. By harnessing the power of technology, our omnichannel platform more effectively educates and empowers patients, caregivers and staff to deliver improved health outcomes and an enhanced patient experience. For 30 years, hospitals, health systems, physician offices and sponsoring brands have trusted PatientPoint and its more than 450 team members to provide a uniquely integrated experience across care settings. Learn more at patientpoint.com.
 
 Employer is EOE/M/F/D/V",3.9,"PatientPoint
-3.9","Cincinnati, OH","Cincinnati, OH",201 to 500 employees,1987,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),"Outcome Health, Health Media Network, Mesmerize Marketing"
-15,Senior Healthcare Analyst/Data Scientist,"$52K-$92K
+3.9","Cincinnati, OH","Cincinnati, OH",201 to 500 employees,1987,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),"Outcome Health, Health Media Network, Mesmerize Marketing",0,0,80,94,87.0,"PatientPoint
+", OH,1,33,1,0,0,0,1
+Senior Healthcare Analyst/Data Scientist,"$52K-$92K
 (Glassdoor est.)","This position is responsible for collaborating with clients, operational leads and subject matter experts to develop and implement tactics and strategy for optimizing profitability, clinical performance, member and provider satisfaction and client satisfaction by developing and leveraging analytic tools, financial models and reports, marketing and outreach. In addition to being an expert SAS, Tableau and Excel developer, each Lead Healthcare Analyst is responsible for maintaining close collaborative relationships with one or more DentaQuest Regional Vice Presidents and all client and provider directors and managers within the states in the assigned region, and for presenting recommendations, strategies and findings. The Lead Healthcare Analyst will organize, lead and support efforts to measure, analyze and report on trends enterprise-wide related to provider utilization, reimbursements, access to care, cost management, etc. and identify and promote strategies to positively influence access to quality, cost effective care and improved program performance. This individual will also work with other areas of the company, including Underwriting, Provider Services, Clinical Management and Client Services to assist in the understanding of provider cost and network trends impacting program costs and profitability and to recommend strategies for improvement wherever possible.
 
 PRIMARY JOB RESPONSIBILITIES:
@@ -632,8 +446,9 @@ PHYSICAL DEMANDS:
 • Ability to efficiently operate all job-related office equipment.
 • Ability to communicate via telephone and work in virtual teams.
 • Ability to work in a dynamic environment.",3.2,"DentaQuest
-3.2","Milwaukee, WI","Boston, MA",1001 to 5000 employees,2001,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),"MCNA Dental Plans, United Concordia, Delta Dental Plans Association"
-16,Data Engineer,"$68K-$113K
+3.2","Milwaukee, WI","Boston, MA",1001 to 5000 employees,2001,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),"MCNA Dental Plans, United Concordia, Delta Dental Plans Association",0,0,52,92,72.0,"DentaQuest
+", WI,0,19,1,0,0,0,1
+Data Engineer,"$68K-$113K
 (Glassdoor est.)","A Bit about Us
 
 Our organization was founded in 1953 by Louis Spaw and Frank Glass, hence the name SpawGlass. With 10 offices across Texas, the company now has approximately 750 employees statewide and is 100 percent employee-owned with ownership open to all employees. Our DNA is comprised of five core values: Build Trust, Be Professional, Live Teamwork, Be Passionate and Think Like an Owner and our purpose is to provide our clients with the absolute best construction experience.
@@ -696,8 +511,9 @@ Corporate office environment
 Monday – Friday, 8:00 am – 5:00 pm
 
 SpawGlass is an Equal Opportunity Employer.",4.4,"SpawGlass
-4.4","Houston, TX","Houston, TX",501 to 1000 employees,1953,Subsidiary or Business Segment,Construction,"Construction, Repair & Maintenance",$500 million to $1 billion (USD),-1
-17,AI Data Scientist,"$85K-$137K
+4.4","Houston, TX","Houston, TX",501 to 1000 employees,1953,Subsidiary or Business Segment,Construction,"Construction, Repair & Maintenance",$500 million to $1 billion (USD),-1,0,0,68,113,90.5,"SpawGlass
+", TX,1,67,1,0,0,0,1
+AI Data Scientist,"$85K-$137K
 (Glassdoor est.)","Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us.
 
 A chance to provide active support to our sponsor’s vital national security mission and to build MITRE’s capabilities in the artificial intelligence and machine learning arenas. This is a strategic leadership role with the successful candidate also advising and working to expand MITRE’s internal capabilities and programs in artificial intelligence and machine learning. The selected candidate will work with MITRE management and sponsors to enhance the robustness of MITRE AI/ML capabilities and to have direct input into immediate and long term AI/ML technical direction of multiple sponsors. While still having a technical focus on current AI/ML technology and trends, this role will have small group management responsibilities and requires knowledge. From the technical side, this role requires the ability to perform technical evaluation and selection of technologies and alternatives for infrastructure and specific applications, formulation of computational strategies and hands on implementation with real world datasets. Activities may include in-depth analysis of technology, planning and conducting experiments, prototypes and simulations, producing assessments, and creating repeatable workflows and underlying technology requirements. On the strategic side, this role requires technical team building and planning for long term growth of MITRE’s support to sponsors in the AI/ML arena. The role also requires the ability to communicate findings and impacts to a diverse audience, including senior decision makers. This is an opportunity to shape and have a long lasting impact on AI/ML for national security tasks.
@@ -741,8 +557,9 @@ MITRE is proud to be an equal opportunity employer. MITRE recruits, employs, tra
 MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please contact MITRE’s Recruiting Help Line at 703-983-8226 or email at recruitinghelp@mitre.org.
 
 Copyright © 1997-2020, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.",3.2,"MITRE
-3.2","McLean, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC"
-18,LEAD COMPUTER SCIENTIST - SR. COMPUTER SCIENTIST - SPACE DATA SYSTEMS,"$75K-$127K
+3.2","McLean, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,85,137,111.0,"MITRE
+", VA,0,62,1,0,0,0,0
+LEAD COMPUTER SCIENTIST - SR. COMPUTER SCIENTIST - SPACE DATA SYSTEMS,"$75K-$127K
 (Glassdoor est.)","Our Space Data Systems team is looking for a Software Lead to manage the development of Java web applications to support a variety of NASA/ESA space missions. The applications support space missions by providing tools for planning mission activities, instrument telemetry data management, data analysis, spaceflight operations tools, and space manufacturing support. Responsibilities will include leading software developers, developing software in Java in accordance with the SDS software engineering process, creating and improving existing web pages with JavaScript, Spring, jQuery, and CSS, writing SQL to work with MariaDB and Oracle databases, and collaborating with scientists and engineers to plan new features and review products in development.
 
 
@@ -765,8 +582,9 @@ For more information about this division, visit the Space Science & Engineering 
 An Equal Employment Opportunity/Affirmative Action Employer
 Race/Color/Religion/Sex/Sexual Orientation/Gender Identity/National Origin/Disabled/Veteran
 Committed to Diversity in the Workplace",4.0,"Southwest Research Institute
-4.0","San Antonio, TX","San Antonio, TX",1001 to 5000 employees,1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),"Los Alamos National Laboratory, Battelle, SRI International"
-19,Data Engineer,"$72K-$135K
+4.0","San Antonio, TX","San Antonio, TX",1001 to 5000 employees,1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),"Los Alamos National Laboratory, Battelle, SRI International",0,0,75,127,101.0,"Southwest Research Institute
+", TX,1,73,0,0,0,0,0
+Data Engineer,"$72K-$135K
 (Glassdoor est.)","ARC is searching for a Data Engineer to join our team! In this role, you will provide software development and product delivery support for data products and product teams. You will be responsible for product delivery data pipelines and the product lifecycle with direction from the Product Owner, the Solution Owner and technical guidance from Solution Architects.
 If you are searching for a position where you can lend your technical expertise and experience professional growth, then we want to hear from you.
 
@@ -802,8 +620,9 @@ Our employees value the hands-on learning and professional development opportuni
 We offer a highly competitive, comprehensive benefits package so you can worry less and focus on what truly matters.
 By joining ARC, you will partner with top minds in the industry as we use data and technology to innovate how the world travels.
 EOE M/F/D/V Females and Minorities Encouraged to Apply",3.9,"Airlines Reporting Corporation
-3.9","Arlington, VA","Arlington, VA",201 to 500 employees,1984,Company - Private,Financial Transaction Processing,Finance,$100 to $500 million (USD),-1
-20,Data Scientist,"$117K-$140K
+3.9","Arlington, VA","Arlington, VA",201 to 500 employees,1984,Company - Private,Financial Transaction Processing,Finance,$100 to $500 million (USD),-1,0,0,72,135,103.5,"Airlines Reporting Corporation
+", VA,1,36,1,0,0,1,0
+Data Scientist,"$117K-$140K
 (Glassdoor est.)","Why We Work at Dun & Bradstreet
 
 
@@ -834,8 +653,9 @@ Dun & Bradstreet is an Equal Opportunity Employer and all qualified applicants w
 We are committed to Equal Employment Opportunity and providing reasonable accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with Dun & Bradstreet and need special assistance or an accommodation to use our website or to apply for a position, please send an e-mail with your request to TalentAcquisitionTeam@dnb.com. Determination on requests for reasonable accommodation are made on a case-by-case basis.
 
 Please note that all Dun & Bradstreet job postings can be found at https://dnb.wd1.myworkdayjobs.com/Careers and all communication from Dun & Bradstreet will come from an email address ending in @dnb.com.",3.0,"Dun & Bradstreet
-3.0","Austin, TX","Short Hills, NJ",1001 to 5000 employees,1841,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),"Experian, Equifax"
-21,Jr. Data Analyst,"$39K-$68K
+3.0","Austin, TX","Short Hills, NJ",1001 to 5000 employees,1841,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),"Experian, Equifax",0,0,117,140,128.5,"Dun & Bradstreet
+", TX,0,179,1,0,0,0,0
+Jr. Data Analyst,"$39K-$68K
 (Glassdoor est.)","Are you ready to make a change? Are you ready to take healthcare to the next level? Then it’s time to join the nation’s leading medical practice association - MGMA.
 
 Here is what you can expect when you join our team:
@@ -872,8 +692,9 @@ About MGMA
 Medical Group Management Association (MGMA) is the premier association for professionals who lead medical practice. Since 1926, through data, people, insights, and advocacy, MGMA empowers medical group practices to innovate and create meaningful change in healthcare. With a membership of more than 40,000 medical practice administrators, executives, and leaders, MGMA represents more than 12,500 organizations of all sizes, types, structures and specialties that deliver almost half of the healthcare in the United States.
 
 View all MGMA's open career opportunities here: www.mgma.com/about/careers.",1.9,"MGMA
-1.9","Denver, CO","Englewood, CO",51 to 200 employees,1926,Nonprofit Organization,Membership Organizations,Business Services,$25 to $50 million (USD),-1
-22,Data Analyst (Informatica),"$60K-$106K
+1.9","Denver, CO","Englewood, CO",51 to 200 employees,1926,Nonprofit Organization,Membership Organizations,Business Services,$25 to $50 million (USD),-1,0,0,39,68,53.5,"MGMA
+", CO,0,94,0,0,0,0,1
+Data Analyst (Informatica),"$60K-$106K
 (Glassdoor est.)","Location: Carmel, Indiana, Eagan, Minnesota, or Little Rock, Arkansas
 
 We’re still hiring! MISO has adapted our recruiting and onboarding processes to accommodate the needs of our prospective employees in light of the current conditions. At MISO, we are committed to the health and safety of our employees while maintaining a reliable bulk electric system. We are proud to offer #workfromhome options to our employees. #stillhiring #hiring
@@ -899,8 +720,9 @@ Appropriate level will be determined based upon experience and knowledge.
 Transformative innovation is happening in the electric industry; from digitalizing homes and distributed resources, to renewable energy and an ever-changing grid. MISO manages the electricity superhighway in the Central U.S. and through use of groundbreaking research and advanced technology, our highly skilled employees ensure power flows reliably to 42 million Americans. Operating the electricity grid, running a robust energy market, planning for a bright future– it’s what our immensely talented and dedicated team does every day.
 
 Watch MISO's 80 Second Video",3.2,"MISO
-3.2","Carmel, IN","Carmel, IN",501 to 1000 employees,1998,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,"PJM Interconnection, Southwest Power Pool"
-23,Data Analyst,"$35K-$68K
+3.2","Carmel, IN","Carmel, IN",501 to 1000 employees,1998,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,"PJM Interconnection, Southwest Power Pool",0,0,60,106,83.0,"MISO
+", IN,1,22,0,0,0,0,0
+Data Analyst,"$35K-$68K
 (Glassdoor est.)","Why TrueAccord?
 
 Debt collection is failing consumers. Every year, 77 Million Americans have negative experiences with the collections process, and they deserve a better approach - one that is more relevant, more digital, and less abrasive. That’s why banks, lenders, and industry leaders are coming to TrueAccord for innovative solutions recovering outstanding receivables.
@@ -952,8 +774,9 @@ Our teams are crafting solutions to big problems every day. If you’re looking 
 Our Dedication to Diversity & Inclusion
 
 TrueAccord is an equal opportunity employer. We promote, value, and thrive with a diverse & inclusive team. Different perspectives contribute to better solutions and this make us stronger every day. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",3.3,"TrueAccord
-3.3","Lenexa, KS","San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
-24,Data Scientist,"$77K-$92K
+3.3","Lenexa, KS","San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,35,68,51.5,"TrueAccord
+", KS,0,7,1,0,0,0,0
+Data Scientist,"$77K-$92K
 (Glassdoor est.)","Data Scientist
 Affinity Solutions / Marketing Cloud seeks smart, curious, technically savvy candidates to join our cutting-edge data science team. We hire the best and brightest and give them the opportunity to work on industry-leading technologies.
 The data sciences team at AFS/Marketing Cloud build models, machine learning algorithms that power all our ad-tech/mar-tech products at scale, develop methodology and tools to precisely and effectively measure market campaign effects, and research in-house and public data sources for consumer spend behavior insights. In this role, you'll have the opportunity to come up with new ideas and solutions that will lead to improvement of our ability to target the right audience, derive insights and provide better measurement methodology for marketing campaigns. You'll access our core data asset and machine learning infrastructure to power your ideas.
@@ -975,8 +798,9 @@ Basic Qualifications
 Preferred Qualifications
 · Experience or exposure to large consumer and/or demographic data sets.
 · Familiarity with data manipulation and cleaning routines and techniques.",3.0,"Affinity Solutions
-3.0","New York, NY","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee"
-25,Data Scientist,"$74K-$119K
+3.0","New York, NY","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee",0,0,77,92,84.5,"Affinity Solutions
+", NY,1,22,1,0,0,0,1
+Data Scientist,"$74K-$119K
 (Glassdoor est.)","As a part of the Data Science team, you will run the development of next-generation platforms for customers micro-segmentation, clusterization, behavior analysis, and prediction as well as building up new improved recommendation systems for the customers.
 
 You will use your expertise to design data science models and frameworks, data processing pipelines, and lead efforts of the ML models productization.
@@ -1027,8 +851,9 @@ Grid Dynamics is the engineering services company known for transformative, miss
 We architected some of the busiest e-commerce services on the Internet and have never had an outage during the peak season.
 
 Founded in 2006 and headquartered in San Ramon, California with offices throughout the US and Eastern Europe, we focus on big data analytics, omnichannel services, DevOps, and cloud enablement.",3.9,"Grid Dynamics
-3.9","Atlanta, GA","San Ramon, CA",1001 to 5000 employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),"Luxoft, EPAM, Capgemini Invent"
-26,Data Scientist,"$80K-$134K
+3.9","Atlanta, GA","San Ramon, CA",1001 to 5000 employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),"Luxoft, EPAM, Capgemini Invent",0,0,74,119,96.5,"Grid Dynamics
+", GA,0,14,1,0,1,0,1
+Data Scientist,"$80K-$134K
 (Glassdoor est.)","Company Description
 
 MMIT is growing from the leading drug coverage data business into a comprehensive, integrated market access company serving pharmaceutical manufacturers, health insurers, PBMs and healthcare IT companies. Their suite of applications is designed to manage an ever-changing proprietary set of pharmacy and medical benefit information and to provide a structured view of complex market access information. By embedding their data and SaaS applications across healthcare, they help ensure transparency, consistency and informed prescription decisions across the MMIT Network. They partner with hundreds of payers and pharma manufacturers ensuring that their products continually capture and analyze coverage and restriction criteria for more than 98% covered lives.
@@ -1108,8 +933,9 @@ Position will be based in Livingston NJ or Yardley PA
 Travel Requirements:
 
 Approximately <10>",3.9,"MMIT
-3.9","Yardley, PA","Yardley, PA",201 to 500 employees,1994,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1
-27,"Senior Staff Data Scientist, Applied AI - Visa Research","$112K-$178K
+3.9","Yardley, PA","Yardley, PA",201 to 500 employees,1994,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,80,134,107.0,"MMIT
+", PA,1,26,0,0,0,0,1
+"Senior Staff Data Scientist, Applied AI - Visa Research","$112K-$178K
 (Glassdoor est.)","As the world's leader in digital payments technology, Visa's mission is to connect the world through the most creative, reliable and secure payment network - enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company's dedication to innovation drives the rapid growth of connected commerce on any device, and fuels the dream of a cashless future for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.
 
 At Visa, your individuality fits right in. Working here gives you an opportunity to impact the world, invest in your career growth, and be part of an inclusive and diverse workplace. We are a global team of disruptors, trailblazers, innovators and risk-takers who are helping drive economic growth in even the most remote parts of the world, creatively moving the industry forward, and doing meaningful work that brings financial literacy and digital commerce to millions of unbanked and underserved consumers.
@@ -1165,8 +991,9 @@ Travel Requirements This position requires the incumbent to travel for work 5% o
 Mental/Physical Requirements This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, and reach with hands and arms.
 
 EEO Statement Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.",3.7,"Visa Inc.
-3.7","Austin, TX","Foster City, CA",10000+ employees,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD),"American Express, Mastercard, Discover"
-28,Senior Research Statistician- Data Scientist,"$99K-$110K
+3.7","Austin, TX","Foster City, CA",10000+ employees,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD),"American Express, Mastercard, Discover",0,0,112,178,145.0,"Visa Inc.
+", TX,0,62,1,0,1,0,0
+Senior Research Statistician- Data Scientist,"$99K-$110K
 (Glassdoor est.)","Acuity is seeking a Senior Research Statistician- Data Scientist to use statistical knowledge and research skills to solve business problems. The Research Statistician will develop, implement, and interpret statistical models with a strong emphasis on data mining and statistical/predictive modeling. Provides work direction.
 ESSENTIAL FUNCTIONS:
 Identifies and acquires additional data sources, both internal and external, that can be used to enhance analyses.
@@ -1190,33 +1017,5 @@ Aptitude in predictive modeling, multivariate analysis, statistical modeling, da
 Ability to apply strong programming and data management skills.
 Knowledge of and experience with at least one major computer programming language or advanced syntax in a major statistical package.
 This job is classified as exempt.",4.8,"Acuity Insurance
-4.8","Sheboygan, WI","Sheboygan, WI",1001 to 5000 employees,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
-29,Data Scientist -,-1,"Our Mission
-We’re here to create a safer, happier and more mindful future for all with the help of data science, engineering, design, and mobile technology. We're starting by reinventing insurance, by rethinking the technologies that enable it, but our true goal is to build a platform that rewards people for driving well — creating safer roads with fewer accidents in the process.
-
-Backed by impressive funding, we're poised to re-engineer a trillion-dollar category. We’re using rich customer insights, advanced technology and data science to build our cloud-native InsurTech solution. We're out to change behavior and promote mindful living.
-
-Job Requirements
-You must have all the skills and experiences associated with one of the options below. These options change over time and reflect the current needs of the team.
-Option one - Telematics ML
-Machine learning: Kaggle grandmaster-level skills with history of deploying models to production
-Telematics experience: You have led telematics modeling at a major company known for telematics
-Software development in Python: Strong scientific Python skills using pandas, scikit-learn, and statsmodels, as well as strong understanding of model deployment patterns
-Option two - Telematics DL
-Deep learning: Experience contributing new deep learning research to solve previously unsolved problems
-Telematics experience: You have led telematics modeling at a major company known for telematics
-Software development in Python: Strong scientific Python skills using pandas, scikit-learn, and statsmodels, as well as strong understanding of model deployment patterns
-Option Three - Contact Center Optimization
-Contact center knowledge: You are an expert at using data science methods to optimize contact centers
-Machine learning: Strong understanding of ML theory with significant applied experience
-Software development in Python: Strong scientific Python skills using pandas, scikit-learn, and statsmodels, as well as strong understanding of model deployment patterns
-More details
-Salary: We invest in first-rate people and pay top-of-market salaries for most positions, factoring in experience, talent and location. We do not offer equity.
-Benefits: Medical, dental, vision, 401(k), wellness reimbursement, four weeks of vacation + six weeks of parental leave, and great work-life balance. Our office building offers on-site shower and bike stalls, and panoramic views of San Francisco.
-Location: Due to COVID-19 our teams are all working remotely through 2020. We provide an in-home office set-up including laptop, monitor, ergonomic desk, chair and other items as needed
-Location: Post COVID-19: San Francisco, CA near Montgomery Bart Station
-All are welcome at Blue Owl. We are an equal opportunity and affirmative action employer who values diversity and inclusion and looks for applicants who understand, embrace and thrive in a multicultural world. We do not discriminate on the basis of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-
-If you are a San Francisco resident, please read the City and County of San Francisco's Fair Chance Ordinance notice.
-https://sfgov.org/olse/sites/default/files/FCO%20poster2020.pdf",4.5,"Blue Owl
-4.5","San Francisco, CA","San Francisco, CA",51 to 200 employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+4.8","Sheboygan, WI","Sheboygan, WI",1001 to 5000 employees,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1,0,0,99,110,104.5,"Acuity Insurance
+", WI,1,95,0,0,0,0,0

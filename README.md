@@ -1,5 +1,6 @@
 #Data-Science-Project
-glassdoor scraper and data science project
+
+Glassdoor.com scraper and data science project
 
 I scraped Glassdoor.com to collect and analyze company information and salary offers for data science jobs accross the country. Here is the process I used to collect it.
 

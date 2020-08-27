@@ -1,7 +1,7 @@
 #Data-Science-Project
 
 Glassdoor.com scraper and data science project
-The structure from this scraper was collected at https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+The structure from this scraper was collected at https://github.com/arapfaik/scraping-glassdoor-selenium
 
 I scraped Glassdoor.com to collect and analyze company information and salary offers for data science jobs across the country. Here is the process I used to collect it.
 

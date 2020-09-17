@@ -1,6 +1,5 @@
 """
 Created on Sun Aug  2 11:43:05 2020
-
 @author: Andrew
 
 This program cleans the salary data Selenium collected from Glassdoor.com

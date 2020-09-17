@@ -37,5 +37,8 @@ Colorado - $52.000
  
   Through the analysis of this data it was clear to see that the range of jobs a data scientist can perform is vast. Depending on your skill set you can expect to earn well into the six figure range and someone starting out, in a smaller city, can predict they will start near . What is very apparent in the data is getting good at being a data scientist, can set you up for a very lucrative life. 
   
-  A new dev's best option for base salary and cost of living for a first job would be in Texas. 
+  A new dev's best option for a high base salary fora first job and an affordable cost of living is in Texas. Where a 1 bedroom apartment in Austin averages $1,307.
+  California offers a slightly higher payrate but the average 1 bedroom apartment in the bay area runs $3,085.
 
+As for the companies offering a lower base salary, cost of living comes into play. The average rent for a 1 bedroom apartment in Kansas is $631.
+Apartment data collected from apartmentguide.come

@@ -3,10 +3,9 @@
 Glassdoor.com scraper and data science project
 The structure from this scraper was collected at https://github.com/arapfaik/scraping-glassdoor-selenium
 
--The goal of this project is to collect data from Glassdoor.com then analyze company information and salary offers for data science positions across the country. To get the program to operate correctly, for this use, I had to revise every xpath as well as tune sleeps and waits to be specific for the newest version of glassdoor. 
+-The goal of this project is to collect data from Glassdoor.com then analyze company information and salary offers for data science positions across the country. To get the program to operate correctly, for this use, I had to revise every xpath as well as tune sleeps and waits and search parameters to be specific for the newest version of glassdoor. Here is the process I used to collect it.
 
-Here is the process I used to collect it.
-Web scraping is a method for collecting information from web pages and practical use of python. The challenges are Glassdoor’s library provides a limited number of data points. Glassdoor doesn’t allow you to scrape jobs or reviews. You only get to scrape companies, which didn't have value for me here. In this project, I will show you how I collected and cleaned data with selenium and spyder then performed exploratory data analysis with Jupyter Notebook.
+ Web scraping is a method for collecting information from web pages and practical use of python. The challenges are Glassdoor’s library provides a limited number of data points. Glassdoor doesn’t allow you to scrape jobs or reviews. You only get to scrape companies, which didn't have value for me here. In this project, I will show you how I collected and cleaned data with selenium and spyder then performed exploratory data analysis with Jupyter Notebook.
 
 Selenium specifically was used because Glassdoor renders its content with Javascript. Using a simple get request to the webpage would only return the visible content and I needed to go much deeper than that.
 
@@ -26,6 +25,9 @@ Sr data scientist - $114.833333
 Texas - $142.000
 Virginia - $98.500
 California - $145.000
+Maryland - 111.500
+Minnesota - 108.000
+DC - 107.500
 
 ###The states offering the lowest average salary are
 North Carolina - $49.000
@@ -37,7 +39,7 @@ Colorado - $52.000
  
   Through the analysis of this data it was clear to see that the range of jobs a data scientist can perform is vast. Depending on your skill set you can expect to earn well into the six figure range and someone starting out, in a smaller city, can predict they will start near . What is very apparent in the data is getting good at being a data scientist, can set you up for a very lucrative life. 
   
-  A new dev's best option for a high base salary fora first job and an affordable cost of living is in Texas. Where a 1 bedroom apartment in Austin averages $1,307.
+  A new dev's best option for a high base salary and an affordable cost of living is in Texas. Where a 1 bedroom apartment in Austin averages $1,307.
   California offers a slightly higher payrate but the average 1 bedroom apartment in the bay area runs $3,085.
 
 As for the companies offering a lower base salary, cost of living comes into play. The average rent for a 1 bedroom apartment in Kansas is $631.
